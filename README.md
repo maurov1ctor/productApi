@@ -16,23 +16,6 @@ Uma **API RESTful** desenvolvida em **Node.js** para gerenciar produtos, incluin
 
 ---
 
-## 📁 Estrutura de Pastas
-
-```
-src/
-├── controllers/
-│   └── productController.js
-├── models/
-│   └── productModel.js
-├── routes/
-│   └── productRoute.js
-├── validators/
-│   └── productValidator.js
-└── server.js
-```
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Node.js
